@@ -7,10 +7,10 @@
 [![](https://visitcount.itsvg.in/api?id=Rinkal-Pipaliya&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me :
 - 😄 Pronouns: She/Her
+- 💬 Ask me about Flutter.
 - 🔭 I’m currently building Music App
 - 🌱 I’m currently learning more about AI.
 - 🤔 I’m looking for help with my side projects.
-- 💬 Ask me about Flutter.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 10 hours listening to songs every day.
 
