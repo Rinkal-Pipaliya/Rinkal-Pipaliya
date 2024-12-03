@@ -3,12 +3,11 @@
          height="45"
          width="45" /> I'm Rinkal Pipaliya </h1>
 
-
 [![](https://visitcount.itsvg.in/api?id=Rinkal-Pipaliya&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me :
 - 😄 Pronouns: She/Her
 - 💬 Ask me about Flutter.
-- 🔭 I’m currently building Music App
+- 🔭 I’m currently building Bhagavad Gita
 - 🌱 I’m currently learning more about AI.
 - 🤔 I’m looking for help with my side projects.
 - 📫 How to reach me: Check social links below.
