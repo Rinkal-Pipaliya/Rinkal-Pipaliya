@@ -7,7 +7,7 @@
 # 💫 About Me :
 - 😄 Pronouns: She/Her
 - 💬 Ask me about Flutter.
-- 🔭 I’m currently building Bhagavad Gita
+- 🔭 I’m currently building Weather App
 - 🌱 I’m currently learning more about AI.
 - 🤔 I’m looking for help with my side projects.
 - 📫 How to reach me: Check social links below.
