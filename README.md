@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I spend almost 10 hours listening to songs every day.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rinkal-pipaliya-25a25330a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rinkal-p-25a25330a/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pipaliyarinkal0)
 
 ## 💻 Tech Stack
